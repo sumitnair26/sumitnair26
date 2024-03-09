@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumitnair26
 - 👀 I’m interested in Exploring, Coding 
-- 🌱 I’m currently learning AWS and ReactJS
+- 🌱 I’m currently learning AWS and NextJS
 - 📫 How to reach me : Search me on any social media with sumitnair26
 
 <!---
